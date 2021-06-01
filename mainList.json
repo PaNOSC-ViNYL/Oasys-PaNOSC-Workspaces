@@ -1,9 +1,9 @@
-{"RemoteBeamlineRepo": {
+{"OASYS_Remote_Workspaces_PaNOSC": {
     "author": "Aljosa Hafner, CERIC-ERIC and Manuel Sanchez del Rio, ESRF",
     "repository_url": "https://github.com/PaNOSC-ViNYL/Oasys-PaNOSC-Workspaces.git",
     "beamlines": [
-        {"name": "EBS ID18", "institute": "ESRF", "uploaded_by": "Manuel Sanchez del Rio", "date": "31.05.2021", "url": "https://raw.githubusercontent.com/PaNOSC-ViNYL/Oasys-PaNOSC-Workspaces/master/EBS_ID18.ows"},
-        {"name": "EBS ID32", "institute": "ESRF", "uploaded_by": "Manuel Sanchez del Rio", "date": "31.05.2021", "url": "https://raw.githubusercontent.com/PaNOSC-ViNYL/Oasys-PaNOSC-Workspaces/master/EBS_ID32.ows"}
+        {"name": "EBS ID18", "institute": "ESRF", "uploaded_by": "Manuel Sanchez del Rio", "date": "31.05.2021", "url_workspace": "https://raw.githubusercontent.com/PaNOSC-ViNYL/Oasys-PaNOSC-Workspaces/master/EBS_ID18.ows", "url_info": ""},
+        {"name": "EBS ID32", "institute": "ESRF", "uploaded_by": "Manuel Sanchez del Rio", "date": "31.05.2021", "url_workspace": "https://raw.githubusercontent.com/PaNOSC-ViNYL/Oasys-PaNOSC-Workspaces/master/EBS_ID32.ows", "url_info": ""}
         ]
     }
 }
